@@ -12,7 +12,10 @@ export default siteConfig({
   name: 'Lingxiao YUAN Home Page',
   domain: 'Lingxiao YUAN Home Page',
   author: 'Lingxiao YUAN',
-
+  
+  // social usernames (optional)
+  linkedin: 'lingxiao-yuan',
+  
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
   defaultPageIcon: null,
